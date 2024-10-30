@@ -16,12 +16,12 @@
 <h3>Arquitetura do Software</h3>
 <p>Imagens que descrevem a arquitetura geral do sistema Heartcare, ilustrando como os diferentes componentes do sistema interagem entre si.</p>
 <div>
-    <img src="Arquitetura_do_software (1).png" alt="Arquitetura do Software 1" style="width: 300px; margin: 10px;">
-    <img src="Arquitetura_do_software (2).png" alt="Arquitetura do Software 2" style="width: 300px; margin: 10px;">
-    <img src="Arquitetura_do_software (3).png" alt="Arquitetura do Software 3" style="width: 300px; margin: 10px;">
-    <img src="Arquitetura_do_software (4).png" alt="Arquitetura do Software 4" style="width: 300px; margin: 10px;">
-    <img src="Arquitetura_do_software (5).png" alt="Arquitetura do Software 5" style="width: 300px; margin: 10px;">
-    <img src="Arquitetura_do_software (6).png" alt="Arquitetura do Software 6" style="width: 300px; margin: 10px;">
+    <img src="Arquitetura_do_software (1).jpeg" alt="Arquitetura do Software 1" style="width: 300px; margin: 10px;">
+    <img src="Arquitetura_do_software (2).jpeg" alt="Arquitetura do Software 2" style="width: 300px; margin: 10px;">
+    <img src="Arquitetura_do_software (3).jpeg" alt="Arquitetura do Software 3" style="width: 300px; margin: 10px;">
+    <img src="Arquitetura_do_software (4).jpeg" alt="Arquitetura do Software 4" style="width: 300px; margin: 10px;">
+    <img src="Arquitetura_do_software (5).jpeg" alt="Arquitetura do Software 5" style="width: 300px; margin: 10px;">
+    <img src="Arquitetura_do_software (6).jpeg" alt="Arquitetura do Software 6" style="width: 300px; margin: 10px;">
 </div>
 
 <h3>Diagramas</h3>
@@ -35,24 +35,24 @@
 <h3>Mapas Conceituais</h3>
 <p>Mapas conceituais que explicam os conceitos principais e a estrutura do projeto Heartcare.</p>
 <div>
-    <img src="Mapa_Conceitual_Heartcare (1).png" alt="Mapa Conceitual Heartcare 1" style="width: 300px; margin: 10px;">
-    <img src="Mapa_Conceitual_Heartcare (2).png" alt="Mapa Conceitual Heartcare 2" style="width: 300px; margin: 10px;">
-    <img src="Mapa_Conceitual_Heartcare (3).png" alt="Mapa Conceitual Heartcare 3" style="width: 300px; margin: 10px;">
-    <img src="Mapa_lógico_heartcare.png" alt="Mapa Lógico Heartcare" style="width: 300px; margin: 10px;">
+    <img src="Mapa_logico_heartcare.png" alt="Mapa Logico Heartcare 1" style="width: 300px; margin: 10px;">
+    <img src="Mapa_Conceitual_heartcare.png" alt="Mapa Conceitual Heartcare" style="width: 300px; margin: 10px;">
 </div>
 
 <h3>Modelos e Protótipos</h3>
 <p>Protótipos do projeto Heartcare. Clique nas imagens para visualizá-las em tamanho completo.</p>
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="prototipo (1).png" alt="Protótipo 1" style="width: 200px; margin: 10px;">
-    <img src="prototipo (2).png" alt="Protótipo 2" style="width: 200px; margin: 10px;">
-    <img src="prototipo (3).png" alt="Protótipo 3" style="width: 200px; margin: 10px;">
-    <img src="prototipo (4).png" alt="Protótipo 4" style="width: 200px; margin: 10px;">
-    <img src="prototipo (5).png" alt="Protótipo 5" style="width: 200px; margin: 10px;">
-    <img src="prototipo (6).png" alt="Protótipo 6" style="width: 200px; margin: 10px;">
-    <img src="prototipo (7).png" alt="Protótipo 7" style="width: 200px; margin: 10px;">
-    <img src="prototipo_reset_password (1).png" alt="Protótipo Redefinição de Senha 1" style="width: 200px; margin: 10px;">
-    <img src="prototipo_reset_password (2).png" alt="Protótipo Redefinição de Senha 2" style="width: 200px; margin: 10px;">
+    <img src="prototipo (1).jpeg" alt="Protótipo 1" style="width: 200px; margin: 10px;">
+    <img src="prototipo (2).jpeg" alt="Protótipo 2" style="width: 200px; margin: 10px;">
+    <img src="prototipo (3).jpeg" alt="Protótipo 3" style="width: 200px; margin: 10px;">
+    <img src="prototipo (4).jpeg" alt="Protótipo 4" style="width: 200px; margin: 10px;">
+    <img src="prototipo (5).jpeg" alt="Protótipo 5" style="width: 200px; margin: 10px;">
+    <img src="prototipo (6).jpeg" alt="Protótipo 6" style="width: 200px; margin: 10px;">
+    <img src="prototipo (7).jpeg" alt="Protótipo 7" style="width: 200px; margin: 10px;">
+    <img src="prototipo_reset_password (1).jpeg" alt="Protótipo Redefinição de Senha 1" style="width: 200px; margin: 10px;">
+       <img src="prototipo_reset_password (2).jpeg" alt="Protótipo Redefinição de Senha 2" style="width: 200px; margin: 10px;">
+          <img src="prototipo_reset_password (3).jpeg" alt="Protótipo Redefinição de Senha 3" style="width: 200px; margin: 10px;">
+  
 </div>
 
 <h3>Outros Arquivos</h3>
