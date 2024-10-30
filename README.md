@@ -16,12 +16,12 @@
 <h3>Arquitetura do Software</h3>
 <p>Imagens que descrevem a arquitetura geral do sistema Heartcare, ilustrando como os diferentes componentes do sistema interagem entre si.</p>
 <div>
-    <img src="Arquitetura_do_software (1).jpeg" alt="Arquitetura do Software 1" style="width: 300px; margin: 10px;">
-    <img src="Arquitetura_do_software (2).jpeg" alt="Arquitetura do Software 2" style="width: 300px; margin: 10px;">
-    <img src="Arquitetura_do_software (3).jpeg" alt="Arquitetura do Software 3" style="width: 300px; margin: 10px;">
-    <img src="Arquitetura_do_software (4).jpeg" alt="Arquitetura do Software 4" style="width: 300px; margin: 10px;">
-    <img src="Arquitetura_do_software (5).jpeg" alt="Arquitetura do Software 5" style="width: 300px; margin: 10px;">
-    <img src="Arquitetura_do_software (6).jpeg" alt="Arquitetura do Software 6" style="width: 300px; margin: 10px;">
+    <img src="Arquitetura_de_software (1).jpeg" alt="Arquitetura do Software 1" style="width: 300px; margin: 10px;">
+    <img src="Arquitetura_de_software (2).jpeg" alt="Arquitetura do Software 2" style="width: 300px; margin: 10px;">
+    <img src="Arquitetura_de_software (3).jpeg" alt="Arquitetura do Software 3" style="width: 300px; margin: 10px;">
+    <img src="Arquitetura_de_software (4).jpeg" alt="Arquitetura do Software 4" style="width: 300px; margin: 10px;">
+    <img src="Arquitetura_de_software (5).jpeg" alt="Arquitetura do Software 5" style="width: 300px; margin: 10px;">
+    <img src="Arquitetura_de_software (6).jpeg" alt="Arquitetura do Software 6" style="width: 300px; margin: 10px;">
 </div>
 
 <h3>Diagramas</h3>
@@ -62,3 +62,4 @@
 
 </body>
 </html>
+/
